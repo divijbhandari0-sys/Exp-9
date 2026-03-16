@@ -1,3 +1,5 @@
+Name: Divij bhandari
+Prn : 25070123
 Aim:
 
 Tools for EDA- Study Of Numpy Library
